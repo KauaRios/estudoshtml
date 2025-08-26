@@ -23,7 +23,7 @@ Este repositório é ideal para quem está começando a aprender HTML. Não há 
 
 1. Clone este repositório para seu computador:
    ```bash
-   git clone https://github.com/SeuUsuario/html-estudos.git
+   git clone https://github.com/KauaRios/html-estudos.git
 
 
 
